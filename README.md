@@ -32,7 +32,7 @@ This course is built for **everyone**, from beginners to those looking to sharpe
 
 ## 🛠️ How To Start:
 1. **Clone or download** this repository.
-2. Follow the **daily lessons** inside the `/days/` folder.
+2. Follow the **daily lessons** inside the [`/Learning_path/`](https://github.com/cryptotabchannel/120-days-to-crypto-master/tree/main/Learning_path) folder.
 3. Apply what you learn daily to build strong crypto earning habits.
 4. **Join our Telegram** for support, news, and daily signals!
 
