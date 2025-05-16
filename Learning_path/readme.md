@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/777647b3-f754-4dfa-b983-42a09f3be2fe)
+
 # 🚀 CryptoTab 120-Day Crypto Learning Journey
 
 Welcome to the **CryptoTab 120-Day Learning Journey** — your step-by-step guide to mastering cryptocurrency fundamentals, mining, earning opportunities, and building strong passive income strategies!
