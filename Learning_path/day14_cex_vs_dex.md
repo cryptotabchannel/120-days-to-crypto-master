@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/04623f60-2e61-4f12-abb1-cc137707984e)
 
 # 📚 Crypto Learning Path – Day 14
 ## 📍 What Is an Exchange? CEX vs DEX Explained!
