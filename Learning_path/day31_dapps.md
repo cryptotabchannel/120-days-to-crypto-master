@@ -38,7 +38,7 @@ dApps are applications built on blockchain that run without centralized control.
 Why just browse when you can mine Bitcoin in your browser?  
 Try CryptoTab Browser and earn while you learn — get a 20% mining speed boost through our link!
 
-🔗 https://cryptotabbrowser.com (https://cryptotabbrowser.com/landing/80/17412792)
+🔗 [https://cryptotabbrowser.com](https://cryptotabbrowser.com/landing/80/17412792) 
 
 📢 Stay tuned daily with @cryptotab for deep crypto education, browser mining tricks, and real-time updates.  
 #crypto #cryptotab #dapps #web3 #defi #btcmining #nft #blockchainapps #cryptolearning
